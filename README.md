@@ -43,7 +43,7 @@ There is not enough variation to conclude that there is a statistically signific
 
 ![Lot 4](https://github.com/tbrech4/statistical_analysis_cars/blob/main/Resources/T-test4.png)
 
-We can conclude that there is enough variation to conclude that there is a statistically significant difference between the population mean and lot 3. 
+We can conclude that there is enough variation to determine that there is a statistically significant difference between the population mean and lot 3. 
 
 ## Study Design: MechaCar vs Competition
 
